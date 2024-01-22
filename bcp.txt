@@ -1,1 +1,0 @@
-bcp zad10.dbo.CUSTOMERS_401290 in "D:\Bazy\CUSTOMERS_401290.csv" -T -f "D:\Bazy\format.fmt"
